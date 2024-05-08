@@ -1,0 +1,10 @@
+package pijo;
+
+import java.util.HashMap;
+
+public class Pija {
+  public static void main(String [] args) {
+    String [] hola = { "caca", "pedo", "pis" };
+
+  }
+}
